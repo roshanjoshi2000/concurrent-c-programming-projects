@@ -1,7 +1,5 @@
-# c-programming-concurrency-projects
-C programming assessment covering linear regression, pthread-based Pi calculation, polynomial derivatives, and Sobel edge detection using lodepng.
-
-## Projects Included
+# concurrent-c-programming-projects
+A collection of C programming projects focused on algorithms, numerical computing, concurrency, pthreads, memory management, and image processing.
 
 ### 1. Linear Regression
 - Implemented linear regression in C
